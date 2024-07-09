@@ -21,7 +21,7 @@ This project was created as a final project for the Introduction to AI class at 
 pip install numpy opencv-python tensorflow gtts pygame keras scikit-learn
 ```
 
-4. Download our Banknotes Dataset and AI model script.
+4. Download our [Banknotes Dataset](https://github.com/GeoffreyL7125/Currency-Detector/tree/main/Banknotes%20Dataset "Banknotes Dataset") and [AI model script](https://github.com/GeoffreyL7125/Currency-Detector/blob/main/src/Currency%20Detector.ipynb "AI model script").
 
 5. Run the script using your local development environment.
 > [!TIP]

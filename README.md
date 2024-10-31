@@ -10,7 +10,7 @@ This project was created as a final project for the Introduction to AI class at 
 ## Getting Started
 1. Download [**Visual Studio Code**](https://code.visualstudio.com/ "**Visual Studio Code**"), then install the [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python "Python") and [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter "Jupyter") extensions within it.
 > [!IMPORTANT]
-> Due to the dependency on a computer's webcam, this model might not perform optimally on online platforms like Google Colab or Jupyter Notebook. For the best experience, it is recommended to use Visual Studio Code or another local development environment.\
+> Due to the dependency on a computer's webcam, this model might not perform optimally on online platforms like Google Colab or Jupyter Notebook. For the best experience, it is recommended to use Visual Studio Code or another local development environment.
 > 
 > **If you are using a local development environment other than Visual Studio Code, you can skip this part.**
 
